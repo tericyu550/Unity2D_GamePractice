@@ -6,3 +6,7 @@
 - 移動
   
 A、D左右移動，空白鍵跳躍
+
+參考資料:
+- https://www.youtube.com/user/EmptyGamer01/videos
+- https://docs.unity3d.com/Manual/index.html
